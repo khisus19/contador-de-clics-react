@@ -30,3 +30,13 @@ html, body {
 .freecodecamp-logo {
   width: 400px;
 }
+
+.contenedor-principal {
+  height: 550px;
+  min-width: 600px;
+  display: flex;
+  flex-direction: column;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
