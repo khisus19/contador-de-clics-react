@@ -1,3 +1,6 @@
+# contador-de-clics-react
+This is my first mini project using React following a course of FreeCodeCamp
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
